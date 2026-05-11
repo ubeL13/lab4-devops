@@ -1,0 +1,4 @@
+ansible/inventory.ini
+*.key
+*.pem
+id_*
